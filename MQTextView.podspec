@@ -9,5 +9,6 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/AidyBao/MQTextView.git", :tag => s.version }
     s.source_files  = "MQTextView/*"
     s.requires_arc = true
+    s.frameworks       = 'Foundation', 'UIKit'
 end
 
