@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'MQTextView' do
+  pod 'MQTextView', :path => '../'
+end
