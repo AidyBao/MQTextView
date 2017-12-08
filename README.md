@@ -1,6 +1,6 @@
 # MQTextView
 
-[![CI Status](http://img.shields.io/travis/iFallen/MQTextView.svg?style=flat)](https://travis-ci.org/AidyBao/MQTextView)
+[![CI Status](http://img.shields.io/travis/AidyBao/MQTextView.svg?style=flat)](https://travis-ci.org/AidyBao/MQTextView)
 [![Version](https://img.shields.io/cocoapods/v/MQTextView.svg?style=flat)](http://cocoapods.org/pods/MQTextView)
 [![License](https://img.shields.io/cocoapods/l/MQTextView.svg?style=flat)](http://cocoapods.org/pods/MQTextView)
 [![Platform](https://img.shields.io/cocoapods/p/MQTextView.svg?style=flat)](http://cocoapods.org/pods/MQTextView)
