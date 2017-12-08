@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "MQTextView"
-    s.version      = "v1.0.1"
+    s.version      = "v1.0.2"
     s.ios.deployment_target = '9.0'
     s.summary      = "A custom TextView."
     s.homepage     = "https://github.com/AidyBao/MQTextView"
